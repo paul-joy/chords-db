@@ -63,6 +63,7 @@ import _Bb from './_Bb';
 import _C from './_C';
 import _Csharp from './_C#';
 import _D from './_D';
+import _Dsharp from './_D#';
 import _E from './_E';
 import _Eb from './_Eb';
 import _F from './_F';
@@ -135,6 +136,7 @@ export default [
   _C,
   _Csharp,
   _D,
+  _Dsharp,
   _E,
   _Eb,
   _F,

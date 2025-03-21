@@ -51,6 +51,7 @@ import m_Bb from './m_Bb';
 import m_C from './m_C';
 import m_Csharp from './m_C#';
 import m_D from './m_D';
+import m_Dsharp from './m_D#';
 import m_E from './m_E';
 import m_Eb from './m_Eb';
 import m_F from './m_F';
@@ -122,6 +123,7 @@ export default [
   m_C,
   m_Csharp,
   m_D,
+  m_Dsharp,
   m_E,
   m_Eb,
   m_F,

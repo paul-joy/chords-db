@@ -45,6 +45,7 @@ import add11 from './add11';
 import madd9 from './madd9';
 import m9_C from './m9_C';
 import m9_F from './m9_F';
+import _7_A from './7_A';
 
 import m_A from './m_A';
 import m_Ab from './m_Ab';
@@ -117,6 +118,7 @@ export default [
   madd9,
   m9_C,
   m9_F,
+  _7_A,
 
   m_A,
   m_Ab,

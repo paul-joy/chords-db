@@ -45,6 +45,7 @@ import add11 from './add11';
 import madd9 from './madd9';
 import m9_D from './m9_D';
 import m9_G from './m9_G';
+import _7_D from './7_D';
 
 import m_A from './m_A';
 import m_Ab from './m_Ab';
@@ -60,6 +61,7 @@ import m_G from './m_G';
 import _Ab from './_Ab';
 import _A from './_A';
 import _B from './_B';
+import _H from './_H';
 import _Bb from './_Bb';
 import _C from './_C';
 import _Csharp from './_C#';
@@ -117,6 +119,7 @@ export default [
   madd9,
   m9_D,
   m9_G,
+  _7_D,
 
   m_A,
   m_Ab,
@@ -132,6 +135,7 @@ export default [
   _A,
   _Ab,
   _B,
+  _H,
   _Bb,
   _C,
   _Csharp,
